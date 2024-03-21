@@ -3,6 +3,15 @@
 ## Introduction
 This document explains how to use the TTS server. This server provides the functionality to convert text into speech.
 
+## Requirements
+- only works in MacOSX. this program use OSX's tts model to run.
+- need python and flask.
+```
+pip install flask
+```
+
+- tested on Sonoma 14.2 & python 3.11
+
 ## Author
 - Jioh L. Jung (with Claude3 opus assisted)
 - Test/Sample project to test AI performance.
